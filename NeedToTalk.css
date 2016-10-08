@@ -1,0 +1,28 @@
+/*
+	Comment
+*/
+
+.navb a {
+	color:white;
+}
+
+a {
+	color:#7FFF00; 
+	}
+
+.TestClass {
+	color: Black;
+	background-color: White;
+	text-align: left;
+
+}
+h1{
+ color:#00FFFF;	
+}
+h2{
+	color:#FF7F50;
+}
+body{
+	background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-fwJzNUybVciJOWG2yCOMq3oYl_ZcjUHUGP-8mb6LlSQghlXi");
+	background-size:cover;
+}

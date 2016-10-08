@@ -1,0 +1,27 @@
+/*
+	Comment
+*/
+
+a {
+	color: Red;
+	font-size: 20px;
+ }
+
+.TestClass {
+	color: Black;
+	background-color: white;
+	text-align: left;
+}
+h1{
+	color:blue;
+	text-align:center;
+}
+li{
+	color:#FF7F50;
+	text-align:center;
+}
+body {
+	background-image:url("http://www.dailycupofpositivitea.com/wp-content/uploads/2013/10/p4.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
