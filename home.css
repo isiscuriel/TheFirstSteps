@@ -25,7 +25,8 @@ color:white;
 }
 .defs {
 	color:#00FF00; 
-	font-family:Impact, Charcoal, sans-serif;
+	font-family: 'Times New Roman', Times;
+	font-size:20px;
 	background: rgba(0,0,0,0.2);
 	
 
@@ -34,7 +35,8 @@ color:white;
 
 .stats {
 	color:Yellow;
-	font-family:Impact, Charcoal, sans-serif;
+	font-family: 'Times New Roman', Times;
+	font-size:20px;
 	background: rgba(0,0,0,0.2);
 }
 
