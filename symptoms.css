@@ -2,7 +2,10 @@
 	Comment
 */
 
-a { /* Comment */ color: /* Comment */ Red; }
+a { 
+   color:#000080; 
+   font-size:20px;		
+}
 
 .TestClass {
 	color: Black;
