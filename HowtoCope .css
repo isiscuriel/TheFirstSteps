@@ -15,12 +15,12 @@ a {
 h1{
 	color:blue;
 	text-align:center;
-	background: rgba(0,0,0,0.2);
+	/*background: rgba(0,0,0,0.2);*/
 }
 li{
-	color:#DA70D6;
+	color:#8B008B;
 	text-align:center;
-	background: rgba(0,0,0,0.2);
+	/*background: rgba(0,0,0,0.2);*/
 }
 body {
 	background-image:url("http://www.dailycupofpositivitea.com/wp-content/uploads/2013/10/p4.jpg");
