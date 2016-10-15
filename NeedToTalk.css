@@ -19,8 +19,10 @@ a {
 }
 h1{
  color:#00FFFF;	
+ background: rgba(0,0,0,0.2);	
 }
 h2{
+	background: rgba(0,0,0,0.2);
 	color:#FF7F50;
 }
 body{
