@@ -10,6 +10,7 @@
 a {
 	color:#7FFF00;
 	background: rgba(0,0,0,0.25);
+	font-weight:bold;	
 	}
 
 .TestClass {
@@ -20,11 +21,13 @@ a {
 }
 h1{
  color:#00FFFF;	
- background: rgba(0,0,0,0.25);	
+ background: rgba(0,0,0,0.25);
+ font-weight:bold;	
 }
 h2{
 	background: rgba(0,0,0,0.25);
 	color:#FF7F50;
+	font-weight:bold;	
 }
 body{
 	background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-fwJzNUybVciJOWG2yCOMq3oYl_ZcjUHUGP-8mb6LlSQghlXi");
